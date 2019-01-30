@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# D. Jones - 2/13/14
 import numpy as np
 def rebin(a, new_shape):
     
