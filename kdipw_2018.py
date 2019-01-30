@@ -1,4 +1,4 @@
-# 2018 Jan 6:  select functions etc. from here for book code
+# select functions etc. from here for book code
 # move phase generation functions to en_phase_screen.py
 # begun 2015 Dec 17 based on kdipw2ds_large.py (c. Jan 2015) to study RISS
 
